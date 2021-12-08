@@ -6,9 +6,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.fzi</groupId>
-	<artifactId>rs485</artifactId>
+	<artifactId>ttyUSB0</artifactId>
 	<version>1.0</version>
-	<name>rs485</name>
+	<name>ttyUSB0</name>
 	<packaging>bundle</packaging>
 
 	<properties>
@@ -18,11 +18,11 @@
 		<!--         that comes along with your URCap                           -->
 		<!--********************************************************************-->
 		<!--******************* BEGINNING OF URCAP META DATA *******************-->
-		<urcap.symbolicname>com.fzi.rs485</urcap.symbolicname>
+		<urcap.symbolicname>com.fzi.ttyUSB0</urcap.symbolicname>
 		<urcap.vendor>FZI Research Center for Information Technology</urcap.vendor>
 		<urcap.contactAddress>Haid-und-Neu-Straße 10-14, 76131 Karlsruhe</urcap.contactAddress>
 		<urcap.copyright>Copyright (C) ${copyright.year} FZI Research Center for Information Technology</urcap.copyright>
-		<urcap.description>URCap for RS485 Interface</urcap.description>
+		<urcap.description>URCap for TTYUSB0 Interface</urcap.description>
 		<urcap.licenseType>Apache License, Version 2.0</urcap.licenseType>
 		<!--********************** END OF URCAP META DATA **********************-->
 		<!--********************************************************************-->
